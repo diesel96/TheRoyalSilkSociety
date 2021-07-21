@@ -1,0 +1,14 @@
+{
+  "directories": {
+    "app": "./dist/electron"
+  },
+  "files": [
+    "**/*",
+    {
+      "from": "../RoyalSilkSociety",
+      "filter": [
+        "**/*"
+      ]
+    }
+  ]
+}
