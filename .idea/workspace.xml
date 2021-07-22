@@ -5,16 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61e7c523-61af-4631-87b4-cfc7e6910e04" name="Default Changelist" comment="Initial">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rss.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/templateLanguages.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pnp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/build-state.yml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.yarn/cache/@angular-dev-infra-private-https-e88a38feee-c38262d955.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.yarn/cache/@angular-devkit-core-npm-12.1.2-181a50075b-9542380b30.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.yarn/cache/@angular-devkit-schematics-npm-12.1.2-af24866852-f9d96d9c5f.zip" afterDir="false" />
@@ -256,8 +246,6 @@
       <change afterPath="$PROJECT_DIR$/.yarn/cache/wcwidth-npm-1.0.1-05fa596453-abf8ba432d.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.yarn/cache/which-npm-1.3.1-f0ebb8bdd8-298d95f9c1.zip" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.yarn/cache/wrappy-npm-1.0.2-916de4d4b3-519fcda0fc.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/install-state.gz" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarn/releases/yarn-berry.cjs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.yarn/unplugged/core-js-npm-2.6.12-0b93d77d31/node_modules/core-js/.ready" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.yarn/unplugged/core-js-npm-2.6.12-0b93d77d31/node_modules/core-js/CHANGELOG.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.yarn/unplugged/core-js-npm-2.6.12-0b93d77d31/node_modules/core-js/Gruntfile.js" afterDir="false" />
@@ -1748,38 +1736,15 @@
       <change afterPath="$PROJECT_DIR$/.yarn/unplugged/core-js-npm-2.6.12-0b93d77d31/node_modules/core-js/web/immediate.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.yarn/unplugged/core-js-npm-2.6.12-0b93d77d31/node_modules/core-js/web/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.yarn/unplugged/core-js-npm-2.6.12-0b93d77d31/node_modules/core-js/web/timers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.yarnrc.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/projects/electron/electron-builder.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/projects/electron/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/projects/electron/tsconfig.electron.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/app/app.component.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/assets/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/styles.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/tsconfig.spec.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/app/disclaimer/disclaimer.component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/app/disclaimer/disclaimer.component.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/app/disclaimer/disclaimer.component.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/app/disclaimer/disclaimer.component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/variables.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RoyalSilkSociety/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/RoyalSilkSociety/src/app/app.module.ts" afterDir="false" />
     </list>
     <list id="84566a97-f014-4366-a614-4f5c990362d1" name="changelist" comment="">
       <change afterPath="$PROJECT_DIR$/RoyalSilkSociety/projects/electron/package.json" afterDir="false" />
@@ -1804,6 +1769,8 @@
       <list>
         <option value="XHTML File" />
         <option value="TypeScript File" />
+        <option value="Sass File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -1834,6 +1801,7 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -1846,14 +1814,15 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.5.0" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.4.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rssAngular/package.json" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="Sass" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
     <property name="ts.external.directory.path" value="C:\Users\james\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\211.7628.21\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
     <property name="typescript.add.unambiguous.imports.on.the.fly" value="true" />
@@ -1881,6 +1850,17 @@
     <configuration name="Angular Application" type="JavascriptDebugType" uri="http://localhost:4200">
       <method v="2" />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Angular CLI Server" type="js.build_tools.npm">
       <package-json value="$PROJECT_DIR$/RoyalSilkSociety/package.json" />
       <command value="run" />
@@ -1901,8 +1881,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626887590541</updated>
-      <workItem from="1626887594238" duration="14111000" />
+      <workItem from="1626887594238" duration="21584000" />
+      <workItem from="1626917624390" duration="46000" />
+      <workItem from="1626917720192" duration="57000" />
+      <workItem from="1626917835654" duration="68000" />
+      <workItem from="1626917980305" duration="142000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial">
+      <created>1626908970058</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626908970061</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1921,6 +1913,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
